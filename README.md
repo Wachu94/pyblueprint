@@ -1,2 +1,2 @@
-# pyblueprint
+# visualscript
 Module for visual scripting 
